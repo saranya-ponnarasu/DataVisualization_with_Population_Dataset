@@ -27,6 +27,6 @@ To visualize and analyze the data distribution.
 - Generating separate datasets according to the column categories for ease of access
 - Generating visualizations for each dataset
 - Providing insights from each visualization
-- Sharing Inference by combining the insights
+- Summary 
 
 
