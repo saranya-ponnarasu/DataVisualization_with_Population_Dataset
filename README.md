@@ -1,7 +1,7 @@
 # PRODIGY_DS_01 - Visualize the Population Data Distribution
 
 ### Problem Statement:
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+Create charts to visualize the distribution of a variables, such as the distribution of ages or genders in a population.
 
 ### Objective:
 To visualize and analyze the data distribution.
