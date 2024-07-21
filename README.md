@@ -1,4 +1,4 @@
-# PRODIGY_DS_01 - Visualize the Population Data Distribution
+# Visualize the Population Data Distribution
 
 ### Problem Statement:
 Create charts to visualize the distribution of a variables, such as the distribution of ages or genders in a population.
